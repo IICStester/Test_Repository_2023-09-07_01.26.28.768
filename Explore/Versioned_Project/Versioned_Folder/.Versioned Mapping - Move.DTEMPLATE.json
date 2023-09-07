@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "alj5Hd7dSHvhB0mCvdMVSV",
-    "name" : "Versioned Mapping - Rename renamed",
+    "id" : "4uxmnLjJDIlj4OCMVJOheY",
+    "name" : "Versioned Mapping - Move",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010000170000000000H7"
+        "repoHandle" : "010000170000000000HF"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,6 +23,6 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-09-07T01:30:50.259Z",
+  "updateTime" : "2023-09-07T01:30:50.258Z",
   "objectRefs" : [ ]
 }
